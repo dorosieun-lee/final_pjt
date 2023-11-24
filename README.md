@@ -1,5 +1,5 @@
 ### 로고
-![Logo.png](./pjt_front/assets/FINDY.png)
+![Logo.png](./README.assets/FINDY.png)
 
 ###  📃컨셉 및 서비스 구상
 - Findy 는 예적금부터 시작하는 사회초년생을 대상으로 간편하고 즐겁게 금융에 관련된 지식을 채우며 시드머니를 모으길 바라는 마음으로 본 사이트를 제작하였습니다.
