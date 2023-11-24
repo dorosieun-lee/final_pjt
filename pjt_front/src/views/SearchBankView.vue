@@ -86,7 +86,7 @@ const searchBank = function (bank) {
 
 <template>
     <div class="container text-center">
-        <h1 class="mb-4">근처 은행 검색</h1>
+        <h1 class="mb-4">주변 은행 검색</h1>
         <div class="search-box row d-flex justify-content-between">
         <button @click="currentLocation" class="btn btn-primary col-sm-5 col-lg-1">현위치</button>
         <div class="row col-lg-7">
