@@ -48,7 +48,7 @@
 ![Untitled](./README.assets/App_component.jpg)
 
 ### 🤝협업 방식
-![Collaboration](./README.assets/coll.jpg)
+![Collaboration](./README.assets/coll.png)
 
 ### 🧾개발일지
 
