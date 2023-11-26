@@ -2,6 +2,7 @@
 ![Logo.png](./README.assets/FINDY.png)
 
 ### 프로젝트 시연 영상
+클릭 시, 유튜브로 연결됩니다.
 [![Video Label](./화면캡쳐/메인페이지-1.PNG)](https://youtu.be/y7DJSkEidng)
 
 ###  📃 컨셉 및 서비스 구상
